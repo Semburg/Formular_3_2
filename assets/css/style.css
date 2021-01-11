@@ -98,6 +98,10 @@ input{
     outline: none;
 }
 
+input[type="button"]:hover{
+    background-color: rgba(202, 150, 54);
+}
+
 input[type="text"]{
     display: inline-block;
     width: 45%;
